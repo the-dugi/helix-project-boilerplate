@@ -1,0 +1,5 @@
+ sitemaps:
+   example:
+     origin: https://main--helix-project-boilerplate--the-dugi.hlx.live
+     source: /query-index.json
+     destination: /sitemap-en.xml
